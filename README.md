@@ -138,6 +138,3 @@ SELECT
     ROUND(SUM(policy_bind) / SUM(quote_generated) * 100, 2) AS bind_rate_percent  
     
 FROM insurance_funnel;
-
-
-My PowerBI Real-Time Dashboard Template: 
